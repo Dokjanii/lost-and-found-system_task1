@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "name": "Red Backpack",
+        "category": "Clothing",
+        "location": "Library",
+        "date_found": "2024-02-19",
+        "claimed": false
+    }
+]
